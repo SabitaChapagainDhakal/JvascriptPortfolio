@@ -1,28 +1,32 @@
-# My Portfolio Website
+# JavaScript Portfolio
 
-This is my personal portfolio website created using **HTML**, **CSS**, and **JavaScript** as part of my web development course.
+This is my personal portfolio website created as part of a JavaScript course. It showcases the projects I’ve completed using HTML, CSS, and JavaScript.
 
-## 🚀 Projects Included
+---
 
-- **Project 1: One Page Website**  
-  A simple, scrollable website with sections like Home, About, and Contact — all on one page.
+## 🚀 Live Website
 
-- **Project 2: Portfolio Website**  
-  This current portfolio site that showcases my projects and growing skills as a developer.
+You can view the live version of my portfolio here:
 
-## 🌐 Live Website
+👉 [Click to View My Live Portfolio](https://SabitaChapagainDhakal.github.io/JvascriptPortfolio/)
 
-👉 [Click here to view my live website](https://sabita-chapagain-dhakal.github.io/portfolio/)
+> 📌 Note: If the link doesn’t load, please ensure the repository is correctly deployed via GitHub Pages and that the link is spelled exactly as above.
 
-> Replace the link above with your real GitHub Pages link if it's different.
+---
 
-## 📁 Technologies Used
+## 📂 Projects Included
 
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+Here are the JavaScript projects I’ve completed as part of this course:
 
-## 👩‍💻 About Me
+- ✅ **Project 1: One Page Website**  
+  A simple, scrollable website with clean navigation and sections such as Home, About, and Contact — all laid out on a single page.
 
-I’m **Sabita Chapagain Dhakal**, a beginner front-end developer learning to create clean, responsive websites. This portfolio is part of my journey through learning web development.
+- ✅ **Project 2: Portfolio Website**  
+  This portfolio website itself, designed to showcase my completed projects and demonstrate my growing skills as a web developer. Built using HTML, CSS, and JavaScript.
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [SabitaChapagainDhakal](https://github.com/SabitaChapagainDhakal)
+- **Email:** arsabita@gmail.com
